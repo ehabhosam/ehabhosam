@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehabhosam
-- 👀 I’m interested in web development  
-- 🌱 I’m currently learning react js
+- 👀 I’m a frontend web developer (React.js develper)
+- 🌱 I'm currently learning MERN stack. 
 - 💞️ I’m looking to collaborate on projects that increase my skills  
 - 📫 Reach me on my mail: ehab.hosam2019@gmail.com
 
