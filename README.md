@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Ehab – a passionate Software Engineer from Egypt.</p>
+<p align="left">Hi, I'm Ehab – a passionate Software Engineer.</p>
 
 ###
 
