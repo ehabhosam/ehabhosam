@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Hi, I'm Ehab – a passionate Software Engineer.</p>
+<h2 align="left">Ehab – Software Engineer.</p>
 
 ###
 
